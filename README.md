@@ -1,1 +1,1 @@
-# Proyecto-inteligencia
+# Proyecto
